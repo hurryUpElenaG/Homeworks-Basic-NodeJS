@@ -1,0 +1,3 @@
+2026-03-28T23:39:49.935Z GET /api/outings?city=skopje&isFree=true
+2026-03-28T23:40:41.879Z GET /api/outings/baf82cf4-02a3-47bf-96fb-5cecb8ec9160
+2026-03-28T23:41:35.325Z GET /api/outings/256

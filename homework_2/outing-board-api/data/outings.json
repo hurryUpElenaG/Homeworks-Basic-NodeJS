@@ -1,0 +1,18 @@
+[
+  {
+    "id": "baf82cf4-02a3-47bf-96fb-5cecb8ec9160",
+    "title": "Open-air jazz",
+    "venue": "City Park",
+    "city": "Skopje",
+    "startsAt": "2025-07-01T19:00:00.000Z",
+    "isFree": true
+  },
+  {
+    "id": "aaa07b33-205a-4653-a561-5c09ed38a752",
+    "title": "Golak folklore meetings",
+    "venue": "City Park",
+    "city": "Delchevo",
+    "startsAt": "2026-08-08T19:00:00.000Z",
+    "isFree": true
+  }
+]
