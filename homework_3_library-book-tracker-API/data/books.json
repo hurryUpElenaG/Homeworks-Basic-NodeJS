@@ -1,0 +1,20 @@
+[
+  {
+    "id": "b491b62e-b8d0-4399-8082-d7fff710c9c5",
+    "title": "Beloto cigance",
+    "author": "Ivo Andric",
+    "genre": "Novel",
+    "year": 1945,
+    "copies": 10,
+    "availableCopies": 10
+  },
+  {
+    "id": "feba89b1-558f-4cba-ae86-7316d0aa3e78",
+    "title": "7 Habits of Highly Effective People",
+    "author": "Stephen R. Covey",
+    "genre": "Self-help",
+    "year": 1989,
+    "copies": 5,
+    "availableCopies": 5
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3fe71a24-2ff6-4906-9858-3ad2cf023730",
+    "bookId": "feba89b1-558f-4cba-ae86-7316d0aa3e78",
+    "borrower": "Elena Georgievska- A0001",
+    "loanDate": "2026-04-03T23:50:35.519Z",
+    "dueDate": "2026-04-17T23:50:35.522Z",
+    "returnDate": "2026-04-03T23:51:24.353Z",
+    "status": "returned"
+  },
+  {
+    "id": "328634f4-2c21-46f6-8d6a-94240dd53af9",
+    "bookId": "feba89b1-558f-4cba-ae86-7316d0aa3e78",
+    "borrower": "Elena Georgievska- A0001",
+    "loanDate": "2026-04-03T23:54:53.441Z",
+    "dueDate": "2026-04-17T23:54:53.447Z",
+    "returnDate": "2026-04-03T23:59:07.629Z",
+    "status": "returned"
+  },
+  {
+    "id": "ff0e594e-5c31-4f26-9231-511a4366304a",
+    "bookId": "b491b62e-b8d0-4399-8082-d7fff710c9c5",
+    "borrower": "Georgia Georgievska",
+    "loanDate": "2026-04-04T00:01:41.497Z",
+    "dueDate": "2026-04-18T00:01:41.497Z",
+    "returnDate": "2026-04-04T00:25:59.625Z",
+    "status": "returned"
+  },
+  {
+    "id": "f235f923-b586-4894-abf0-210ec6d15550",
+    "bookId": "b491b62e-b8d0-4399-8082-d7fff710c9c5",
+    "borrower": "Petko Petkovski",
+    "loanDate": "2026-03-17T15:47:56.546Z",
+    "dueDate": "2026-04-01T15:47:56.553Z",
+    "returnDate": null,
+    "status": "active"
+  }
+]
